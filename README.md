@@ -4,5 +4,5 @@
 
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE4MjRhMHpkMXVkbnRsY2xoZG5zcmszeGVjM2J5aDloMWNsZjZnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif)"/>
+  <img height="50" src="https://giphy.com/gifs/art-beautiful-backgrounds-N3yLGQ1oMYfGU"/>
 </a>
