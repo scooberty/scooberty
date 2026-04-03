@@ -23,12 +23,19 @@
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
 <p align="center">
+
   <img src="https://skillicons.dev/icons?i=python,r,git,docker&theme=dark&perline=4" />
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=4169e1"/>
+
+  <img src="https://raw.githubusercontent.com/scooberty/scooberty/main/Apache_Spark_logo.svg.png" height="48"/>
+
+  &nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/scooberty/scooberty/main/images.png" height="48"/>
+
 </p>
 
 ---
