@@ -6,13 +6,13 @@
 ## About me
 
 * I'm Liying (She/Her)
-* Masters student in Statistics at the National University of Singapore
+* Masters student in Statistics at the National University of Singapore (NUS)
 * Into machine learning and scalable data systems
 * Previously from the National Space Agency of Singapore (NSAS) & Economic Development Board (EDB) 🚀
 * I like gaming, reading, and cooking
   
 ---
-## My Toolkit </h3> ## 
+## My Toolkit
 
 **Languages** — Python · R · SQL
 
