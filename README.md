@@ -25,7 +25,7 @@
 **Visualisation** — Tableau · Power BI · Matplotlib
 
 ---
-<h3 align="center"> ## 📊 GitHub Stats 📊##  </h3>
+<h3 align="center"> 📊 GitHub Stats 📊 </h3>
 
 <p align="center">
   <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api?username=scooberty&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=80dfdf&icon_color=00ffff"/>
