@@ -7,13 +7,15 @@
 
 * I'm Liying (She/Her)
 * Masters student in Statistics at NUS
-* Previously from the National Space Agency of Singapore (NSAS) & Singapore Economic Development Board (EDB) 🚀
 * Into machine learning and scalable data systems
-* Gamer, reader, cooker(?) 🐱
-* Hobby 3D model designer — prints on [MakerWorld](https://makerworld.com/en/@3Doobert) 🖨️
+* Previously from the National Space Agency of Singapore (NSAS) & Singapore Economic Development Board (EDB) 🚀
+* I like gaming, reading, and cooking
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=0&pause=0&color=4169e1&center=true&vCenter=true&repeat=false&width=300&lines=🛠️+Tech+Stack"/>
+</p>
 
 **Languages** — Python · R · SQL
 
@@ -25,24 +27,25 @@
 
 **Visualisation** — Tableau · Power BI · Matplotlib
 
+
 ---
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api?username=scooberty&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4169e1&text_color=7b9ff5&icon_color=4169e1"/>
+  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api?username=scooberty&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=90ee90&icon_color=39ff14"/>
 </p>
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scooberty&layout=compact&hide_border=true&bg_color=0d1117&title_color=4169e1&text_color=7b9ff5&langs_count=6"/>
+  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scooberty&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=90ee90&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com?user=scooberty&hide_border=true&background=0d1117&ring=4169e1&fire=4169e1&currStreakLabel=4169e1&sideLabels=7b9ff5&dates=7b9ff5&sideNums=4169e1&currStreakNum=4169e1"/>
+  <img width="495" src="https://streak-stats.demolab.com?user=scooberty&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=90ee90&dates=90ee90&sideNums=39ff14&currStreakNum=39ff14"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169e1,100:0d1117&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,100:0d1117&height=80&section=footer"/>
 </p>
