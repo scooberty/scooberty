@@ -8,7 +8,7 @@
 * I'm Liying (She/Her)
 * Masters student in Statistics at NUS
 * Into machine learning and scalable data systems
-* Previously from the National Space Agency of Singapore (NSAS) & Singapore Economic Development Board (EDB) 🚀
+* Previously from the National Space Agency of Singapore (NSAS) & Economic Development Board (EDB) 🚀
 * I like gaming, reading, and cooking
   
 ---
