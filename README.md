@@ -2,7 +2,9 @@
   <img src="https://media2.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%"/>
 </p>
 
-<h2 align="center">✨ Liying Choo ✨</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=0&pause=0&color=4169e1&center=true&vCenter=true&repeat=false&width=500&lines=Liying+Choo"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=0&pause=0&color=4169e1&center=true&vCenter=true&repeat=false&width=600&lines=MSc+in+Statistics+%40+NUS"/>
@@ -22,6 +24,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,git,docker&theme=dark&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=4169e1"/>
 </p>
 
 ---
@@ -50,11 +57,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=0&pause=0&color=4169e1&center=true&vCenter=true&repeat=false&width=400&lines=made+with+%E2%99%A5+by+liying"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169e1,100:0d1117&height=80&section=footer"/>
