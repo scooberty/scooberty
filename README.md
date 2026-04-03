@@ -3,24 +3,27 @@
 </p>
 
 ---
+## About me
 
-Hi, I'm Liying (or scoobert) 👋 I'm currently doing my Masters in Statistics at the National University of Singapore, with a particular interest in machine learning and scalable data systems.
-
-I previously worked at the National Space Agency of Singapore (NSAS), which was a pretty cool chapter. These days I keep busy gaming, reading, and getting into 3D model design — you can check out some of my prints on [MakerWorld](https://makerworld.com/en/@3Doobert) 🖨️
-
+* I'm Liying (She/Her)
+* Masters student in Statistics at NUS
+* Previously from the National Space Agency of Singapore (NSAS) & Singapore Economic Development Board (EDB) 🚀
+* Into machine learning and scalable data systems
+* Gamer, reader, cooker(?) 🐱
+* Hobby 3D model designer — prints on [MakerWorld](https://makerworld.com/en/@3Doobert) 🖨️
 ---
 
-<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,git,docker&theme=dark" />
-</p>
+**Languages** — Python · R · SQL
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/scooberty/scooberty/main/apache-spark.png" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/scooberty/scooberty/main/sql.png" height="48"/>
-</p>
+**ML Frameworks** — Scikit-learn · TensorFlow · PyTorch
+
+**Data** — Pandas · NumPy · Apache Spark · PySpark · ETL
+
+**Cloud & Infra** — Google Cloud · Docker
+
+**Visualisation** — Tableau · Power BI · Matplotlib
 
 ---
 
