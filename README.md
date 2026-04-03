@@ -10,9 +10,8 @@
 * Into machine learning and scalable data systems
 * Previously from the National Space Agency of Singapore (NSAS) & Singapore Economic Development Board (EDB) 🚀
 * I like gaming, reading, and cooking
+  
 ---
-
-
 <p align="center"> <h3 align="center">🛠️ Tech Stack</h3>
 
 **Languages** — Python · R · SQL
@@ -25,9 +24,7 @@
 
 **Visualisation** — Tableau · Power BI · Matplotlib
 
-
 ---
-
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
 <p align="center">
@@ -43,7 +40,6 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0d1117&height=80&section=footer"/>
 </p>
