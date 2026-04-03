@@ -12,7 +12,7 @@
 * I like gaming, reading, and cooking
   
 ---
-🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack</h3> ## 
 
 **Languages** — Python · R · SQL
 
