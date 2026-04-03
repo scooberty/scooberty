@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="300" height="225"/>
+  <img src="https://media2.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%"/>
 </p>
 
 <h2 align="center">Liying Choo</h2>
@@ -23,14 +23,21 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scooberty&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=scooberty&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scooberty&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=scooberty&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🌐 Connect
-<a href="(https://www.linkedin.com/in/liyingchoo/)">
+<a href="https://www.linkedin.com/in/liyingchoo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
