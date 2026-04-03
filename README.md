@@ -2,40 +2,24 @@
   <img src="https://media2.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=0&pause=0&color=4169e1&center=true&vCenter=true&repeat=false&width=500&lines=Liying+Choo"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=0&pause=0&color=4169e1&center=true&vCenter=true&repeat=false&width=600&lines=MSc+in+Statistics+%40+NUS"/>
-</p>
+Hi, I'm Liying (or scoobert) 👋 I'm currently doing my Masters in Statistics at the National University of Singapore, with a particular interest in machine learning and scalable data systems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=0&pause=0&color=7b9ff5&center=true&vCenter=true&repeat=false&width=700&lines=stats+%7C+ML+%7C+cats+%7C+cooking+%7C+reading"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🕹️-Gamer-4169e1?style=for-the-badge&labelColor=0d1117&color=4169e1"/>
-</p>
+I previously worked at the National Space Agency of Singapore (NSAS), which was a pretty cool chapter. These days I keep busy gaming, reading, and getting into 3D model design — you can check out some of my prints on [MakerWorld](https://makerworld.com/en/@3Doobert) 🖨️
 
 ---
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
 <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,r,git,docker&theme=dark&perline=4" />
-
+  <img src="https://skillicons.dev/icons?i=python,r,git,docker&theme=dark" />
 </p>
 
 <p align="center">
-
-  <img src="https://raw.githubusercontent.com/scooberty/scooberty/main/Apache_Spark_logo.svg.png" height="48"/>
-
+  <img src="https://raw.githubusercontent.com/scooberty/scooberty/main/apache-spark.png" height="48"/>
   &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/scooberty/scooberty/main/images.png" height="48"/>
-
+  <img src="https://raw.githubusercontent.com/scooberty/scooberty/main/sql.png" height="48"/>
 </p>
 
 ---
@@ -55,15 +39,6 @@
 </p>
 
 ---
-
-<h3 align="center">🌐 Connect 🌐</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/liyingchoo/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169e1,100:0d1117&height=80&section=footer"/>
