@@ -28,14 +28,6 @@
 <h3 align="center"> 📊 GitHub Stats 📊 </h3>
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api?username=scooberty&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=80dfdf&icon_color=00ffff"/>
-</p>
-
-<p align="center">
-  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scooberty&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=80dfdf&langs_count=6"/>
-</p>
-
-<p align="center">
   <img width="495" src="https://streak-stats.demolab.com?user=scooberty&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=80dfdf&dates=80dfdf&sideNums=00ffff&currStreakNum=00ffff"/>
 </p>
 
